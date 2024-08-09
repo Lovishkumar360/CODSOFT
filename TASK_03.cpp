@@ -1,6 +1,6 @@
-						//      CODSOFT INTERNSHIP
-						//      TASK 03 : TIC-TAC-TOE GAME 
-						//      Submitted By : Lovish Kumar
+//      CODSOFT INTERNSHIP
+//      TASK 03 : TIC-TAC-TOE GAME 
+//      Submitted By : Lovish Kumar
 
 #include<iostream>
 #include<string>
